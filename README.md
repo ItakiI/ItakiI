@@ -7,7 +7,7 @@
   Welcome to my profile
 </p>
 <p align="center">
-  <img src="https://github.com/ItakiI/ItakiI/assets/151673628/31cb1227-c4e3-4144-bf63-ea2471e49540" alt="Sublime's custom image"/>
+  <img src="https://github.com/ItakiI/ItakiI/assets/151673628/31cb1227-c4e3-4144-bf63-ea2471e49540" alt="Sublime's custom image" loop/>
 </p>
 
 <!---
