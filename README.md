@@ -1,3 +1,4 @@
+
 <p align="center">
  Hi there<br>
  I’m taki<br> 
@@ -7,7 +8,7 @@
   Welcome to my profile
 </p>
 <p align="center">
-  <img src="https://github.com/ItakiI/ItakiI/assets/151673628/31cb1227-c4e3-4144-bf63-ea2471e49540" alt="Welcome Image" loop=infinite>
+  <img src="https://github.com/ItakiI/ItakiI/assets/151673628/6646ac3e-360b-4fe5-88b8-f988669fb057" alt="Welcome Image" loop=infinite>
 </p>
 
 <!---
